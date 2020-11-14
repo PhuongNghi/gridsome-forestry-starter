@@ -2,7 +2,8 @@
 date: 2020-11-14
 thumbnail: "/uploads/markus-spiske-516263-unsplash.jpg"
 title: Olala le content management
-categories: []
+categories:
+- R&D JamStack way
 project_bg_color: "#FFD4D4"
 project_fg_color: "#7ED321"
 
